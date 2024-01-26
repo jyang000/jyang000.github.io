@@ -10,7 +10,7 @@ Hi, my name is Jiayao Yang.
 I am a PhD student majoring in Signal & Image Processing and Machine Learning of EECS department in [University of Michgan - Ann Arbor](https://umich.edu) co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My research interests include magnetic resonance imaging (MRI), signal processing, optimization, and machine learning.
 
 <section style="display:inline-block;">
-<section style="border-radius: 5px; display: inline-block; background-color: rgb(0,39,76); padding: 5px; margin: 3px; color: rgb(255,203,5); padding-left: 15px; padding-right:15px;"><a href="">Email</section>
+<section style="border-radius: 5px; display: inline-block; background-color: rgb(0,39,76); padding: 5px; margin: 3px; color: rgb(255,203,5); padding-left: 15px; padding-right:15px;"><a href="">Email: jiayao at umich dot edu</a></section>
 </section>
 
 <font color=lavendar style="font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Jiayao Yang</font>
