@@ -3,7 +3,7 @@
 	<li style="display: inline;"><a href="https://jyang000.github.io/research.html" style="color:black;">RESEARCH</a></li>
 	<li style="display: inline;"><a href="https://jyang000.github.io/blogs.html" style="color:black;">BLOGS</a></li>
 </ul>
-<aside style="float:right;padding: 10px;border: 1px solid rgb(205,205,205);border-top: 6px solid rgb(205,205,205,0.8);width=200;background: "><img src='assets/jiayao.png' alt='jiayao' width=180></aside>
+<aside style="float:right;padding: 10px;border: 1px solid rgb(205,205,205);border-top: 6px solid rgb(205,205,205,0.8);width=170;background: "><img src='assets/jiayao.png' alt='jiayao' width=160></aside>
 
 Hi, my name is Jiayao Yang.
 
