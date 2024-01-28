@@ -13,3 +13,5 @@ I am a PhD student majoring in Signal & Image Processing and Machine Learning of
 <section style="border-radius: 5px; display: inline-block; background-color: rgb(255,203,5); padding: 5px; margin: 3px; color: rgb(0,39,76);padding-left: 15px; padding-right:15px;">Email: jiayao at umich dot edu</section>
 <section style="border-radius: 5px; display: inline-block; background-color: rgb(255,203,5); padding: 5px; margin: 3px; padding-left: 15px; padding-right:15px;"><a href="https://www.linkedin.com/in/jiayao-yang-2235b4181" >LinkedIn</a></section>
 </section>
+
+I'm one of the student organizers of [MSSISS 2024](https://sites.lsa.umich.edu/mssiss/), please join us and submit your abstract! 
