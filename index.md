@@ -11,5 +11,3 @@ I am a PhD pre-candidate majoring in Signal & Image Processing and Machine Learn
 <div style="height: 50px;"></div> 
 
 ---
-
-I'm one of the student organizers of [MSSISS 2024](https://sites.lsa.umich.edu/mssiss/), please join us and submit your abstract! 
