@@ -12,12 +12,12 @@ layout: home
 
 Hi, my name is Jiayao Yang.
 
-I am a PhD student majoring in Signal & Image Processing and Machine Learning of EECS department in University of Michgan - Ann Arbor co-advised by Jon-Fredrik Nielsen and Yun Jiang. My research interests include magnetic resonance imaging (MRI), signal processing, optimization, and machine learning.
+I am a PhD student majoring in Signal & Image Processing and Machine Learning of EECS department in [University of Michgan - Ann Arbor](https://umich.edu/) co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My research interests include magnetic resonance imaging (MRI), signal processing, optimization, and machine learning.
 
 
 **News**
-- **May 04-09, 2024**: presented at 2024 ISMRM & ISMRT Annual Meeting & Exhibition in Singapore
-- **March 28-29, 2024**: organized Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)
+- **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
+- **March 28-29, 2024**: organized [Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)](https://sites.lsa.umich.edu/mssiss/)
 - **Sepmtember, 2023**: started my PhD program at University of Michigan
 - **June 03-08, 2023**: presented at 2023 ISMRM & ISMRT Annual Meeting & Exhibition in Toronto
 - **January 08-11, 2023**: presented at ISMRM Data Sampling & Image Reconstruction workshop in Sedona
