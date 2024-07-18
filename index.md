@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<aside style="float:right;padding: 10px;border: 1px solid rgb(205,205,205);border-top: 6px solid rgb(205,205,205,0.8);width=180;background: "><img src='assets/jiayao.png' alt='my photo' width=170></aside>
+<aside style="float:right;padding: 10px;border: 1px solid rgb(205,205,205);border-top: 6px solid rgb(205,205,205,0.8);width=180;background: "><img src='files/jiayao.png' alt='my photo' width=170></aside>
 
 Hi, my name is Jiayao Yang.
 
@@ -16,5 +16,13 @@ I am a PhD student majoring in Signal & Image Processing and Machine Learning of
 
 
 **News**
-- **May 04-09, 2024**: attended ISMRM 2024 Annual meeting in Singapore
+- **May 04-09, 2024**: presented at 2024 ISMRM & ISMRT Annual Meeting & Exhibition in Singapore
+- **March 28-29, 2024**: organized Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)
 - **Sepmtember, 2023**: started my PhD program at University of Michigan
+- **June 03-08, 2023**: presented at 2023 ISMRM & ISMRT Annual Meeting & Exhibition in Toronto
+- **January 08-11, 2023**: presented at ISMRM Data Sampling & Image Reconstruction workshop in Sedona
+
+**Conference and presentations**
+- Jiayao Yang, Jesus Ernesto Fajardo, Jeffrey A. Fessler, Vikas Gulani, Jon-Fredrik Nielsen, and Yun Jiang, “Calibration-free Multidimensional Universal Refocusing Pulse Design for 3D Reduced Field-of-View Prostate Imaging”, digital poster in 2024 ISMRM Annual Meeting, Singapore. (May 2024) (program number: 4094)
+- Jiayao Yang, Jon-Fredrik Nielsen, and Yun Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation for 3D refocusing pulse”, in-person oral Power Pitch presentation in 2023 ISMRM Annual Meeting, Toronto, ON, Canada. (June 2023) (program number: 0200)
+- Jiayao Yang, Jon-Fredrik Nielsen, and Yun Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation”, poster in 2023 ISMRM Workshop on Data Sampling & Image Reconstruction, Sedona, AZ, USA (Jan 2023) (poster number: 77)
