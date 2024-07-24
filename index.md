@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<aside style="float:right;padding: 10px;width:180px;background: "><img src='files/jiayao.png' alt='my photo' width=170></aside>
+<aside style="float:right;padding:10px;width:180px;background:;"><img src='files/jiayao.png' alt='my photo' width=170></aside>
 
 Hi, my name is Jiayao Yang.
 
@@ -18,9 +18,9 @@ I am a PhD student majoring in Signal & Image Processing and Machine Learning of
 **News**
 - **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
 - **March 28-29, 2024**: organized [Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)](https://sites.lsa.umich.edu/mssiss/)
-- **Sepmtember, 2023**: started my PhD program at University of Michigan
-- **June 03-08, 2023**: presented at 2023 ISMRM & ISMRT Annual Meeting & Exhibition in Toronto
-- **January 08-11, 2023**: presented at ISMRM Data Sampling & Image Reconstruction workshop in Sedona
+- **Sepmtember, 2023**: started my PhD program at [University of Michigan](https://umich.edu/)
+- **June 03-08, 2023**: presented at [2023 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/23m/) in Toronto
+- **January 08-11, 2023**: presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona
 
 **Conference and presentations**
 - Jiayao Yang, Jesus Ernesto Fajardo, Jeffrey A. Fessler, Vikas Gulani, Jon-Fredrik Nielsen, and Yun Jiang, “Calibration-free Multidimensional Universal Refocusing Pulse Design for 3D Reduced Field-of-View Prostate Imaging”, digital poster in 2024 ISMRM Annual Meeting, Singapore. (May 2024) (program number: 4094)
