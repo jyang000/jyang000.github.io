@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "unneccessary python"
+title: "Unnecessary things in python"
 categories: note
 author:
 - J.Y.
 ---
 
-Python is a very convenient programming language. 
+As a Python user, many things may seem unnecessary in the coding but can be quite helpful.
 
-As a python user, there're things that seems unneccessary but in fact helpful in coding and writing my projects.
+### Type annotation
 
-## type annotation
-## be aware of new features
+
+### Function documentation
+### Beaware of new features
+### More?
