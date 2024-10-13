@@ -8,11 +8,11 @@
 layout: home
 ---
 
-<aside style="float:left;padding:10px;width:200px;background:;"><img src='files/jiayao-2024.jpg' alt='my photo' width=170></aside>
+<aside style="float:left;padding:10px;width:180px;background:;"><img src='files/jiayao-2024.jpg' alt='my photo' width=170></aside>
 
 Hi, my name is Jiayao Yang.
 
-I am a PhD candidate majoring in Signal & Image Processing and Machine Learning of EECS department in [University of Michgan - Ann Arbor](https://umich.edu/) co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My research interests include magnetic resonance imaging (MRI), signal processing, optimization, and machine learning.
+I am a PhD candidate majoring in Signal & Image Processing and Machine Learning of EECS department in [University of Michgan - Ann Arbor](https://umich.edu/) co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My research interests include magnetic resonance imaging (MRI), signal processing, numerical optimization, and machine learning.
 
 
 **News**
