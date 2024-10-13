@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<aside style="float:left;padding:10px;width:180px;background:;"><img src='files/jiayao-2024.jpg' alt='my photo' width=170></aside>
+<aside style="float:left;padding:10px;width:200px;background:;"><img src='files/jiayao-2024.jpg' alt='my photo' width=170></aside>
 
 Hi, my name is Jiayao Yang.
 
