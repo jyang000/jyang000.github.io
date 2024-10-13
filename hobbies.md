@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Drawings
-permalink: /drawings/
+title: Hobbies
+permalink: /hobbies/
 ---
 
 I like drawing in my spare time :)
