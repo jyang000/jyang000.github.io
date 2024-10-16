@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "some signal processing notes"
+title: "some signal processing, linear algebra, and programming notes"
 categories: note
 author:
 - J.Y.
