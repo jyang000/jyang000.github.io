@@ -5,4 +5,5 @@ permalink: /posts/
 ---
 
 - [Hobbies](hobbies.md)
-- [about python](_posts/2024-07-25-aboutpython.md)
+- [about python](files/2024-07-25-aboutpython.md)
+- [programming note](files/programming-examples.md)
