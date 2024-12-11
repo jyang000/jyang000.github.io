@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-layout: post
+layout: home
 ---
 
 I like drawing and photography in my spare time. 
