@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /aboutme/
+layout: page
 ---
 
 I like drawing and photography in my spare time. 
