@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-permalink: /hobbies/
 ---
 
 I like drawing and photography in my spare time. 
