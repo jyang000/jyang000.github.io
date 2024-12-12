@@ -3,7 +3,7 @@ Resources
 	- Principles of Magnetic Resonance Imaging. Dwight G. Nishimura.
 	- Handbook of MRI Pulse Sequences. Matt A. Bernstein, Kevin F. King, Xiaohong Joe Zhou.
   - Quantitative magnetic resonance imaging. Academic Press. Seiberlich, N., Gulani, V., Campbell-Washburn, A., Sourbron, S., Doneva, M. I., Calamante, F., and Hu, H. H. (2020).
-  - Principles of magnetic resonance imaging. Bellingham: SPIE Optical Engineering Press; 2000. Liang ZP, Lauterbur PC. 
+  - Principles of magnetic resonance imaging. 2000. Liang ZP, Lauterbur PC. 
 	- [The Basics of NMR](http://www.cis.rit.edu/htbooks/nmr/) by Joseph P. Hornak.
 	- Medical Imaging Systems. Albert Macovski.
 - [mriquestions.com](https://mriquestions.com/index.html#/)
