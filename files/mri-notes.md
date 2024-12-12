@@ -11,4 +11,4 @@ Resources
 - [EE 591 Supplemental Reading (usc.edu) (of different topics in MRI)](https://ece-classes.usc.edu/ee591/library.html)
 - [EE369C: Medical Image Reconstruction (standford) ](https://web.stanford.edu/class/ee369c/)
 - [EE469B: RF Pulse Design for MRI (standford)](https://web.stanford.edu/class/ee469b/)
-- Jeff Fessler's website
+- Jeff Fessler's website (a professor at UM EECS)
