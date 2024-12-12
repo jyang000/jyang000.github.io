@@ -1,0 +1,14 @@
+Resources
+- some reference books
+	- Principles of Magnetic Resonance Imaging. Dwight G. Nishimura.
+	- Handbook of MRI Pulse Sequences. Matt A. Bernstein, Kevin F. King, Xiaohong Joe Zhou.
+	- Medical Imaging Systems. Albert Macovski.
+	- [The Basics of NMR](http://www.cis.rit.edu/htbooks/nmr/) by Joseph P. Hornak.
+- [mriquestions.com](https://mriquestions.com/index.html#/)
+- [Past Annual Scientific Meeting Proceedings and Syllabi of ISMRM](https://www.ismrm.org/members-only/past-annual-scientific-meeting-proceedings-and-syllabi/)
+- [List of MR Sites from ISMRM](http://www.ismrm.org/resources/mr-sites)
+- [EE 591 | Magnetic Resonance Imaging and Reconstruction (usc.edu)](https://ece-classes.usc.edu/ee591/)
+- [EE 591 | Supplemental Reading (usc.edu) (of different topics in MRI)](https://ece-classes.usc.edu/ee591/library.html)
+- [EE369C: Medical Image Reconstruction (standford) ](https://web.stanford.edu/class/ee369c/)
+- [EE469B: RF Pulse Design for MRI (standford)](https://web.stanford.edu/class/ee469b/)
+- Jeff Fessler's website
