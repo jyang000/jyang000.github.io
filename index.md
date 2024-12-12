@@ -28,5 +28,6 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 
 **Posts**
 - [More about me ...](files/aboutme.md)
+- [some resources and notes of MRI](files/mri-notes.md)
 
 [*About this site*](about.md)
