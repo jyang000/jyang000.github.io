@@ -2,7 +2,7 @@
 layout: post
 ---
 
-I like drawing and photography in my spare time. 
+I like drawing in my spare time. 
 Important things I learned from drawing are patience and patience, and to appreciate the beauty of the world. 
 
 <center><img src="selfportrait-0.png" alt="drawing" style="max-width: 40%;"> <img src="selfportrait-1.png" alt="drawing" style="max-width: 40%;"></center>
