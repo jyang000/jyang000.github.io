@@ -1,6 +1,5 @@
 ---
 layout: post
-title: About me
 ---
 
 I like drawing and photography in my spare time. 
