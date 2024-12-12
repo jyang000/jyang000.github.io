@@ -2,8 +2,10 @@ Resources
 - some reference books
 	- Principles of Magnetic Resonance Imaging. Dwight G. Nishimura.
 	- Handbook of MRI Pulse Sequences. Matt A. Bernstein, Kevin F. King, Xiaohong Joe Zhou.
-	- Medical Imaging Systems. Albert Macovski.
+  - Quantitative magnetic resonance imaging. Academic Press. Seiberlich, N., Gulani, V., Campbell-Washburn, A., Sourbron, S., Doneva, M. I., Calamante, F., and Hu, H. H. (2020).
+  - Principles of magnetic resonance imaging. Bellingham: SPIE Optical Engineering Press; 2000. Liang ZP, Lauterbur PC. 
 	- [The Basics of NMR](http://www.cis.rit.edu/htbooks/nmr/) by Joseph P. Hornak.
+	- Medical Imaging Systems. Albert Macovski.
 - [mriquestions.com](https://mriquestions.com/index.html#/)
 - [Past Annual Scientific Meeting Proceedings and Syllabi of ISMRM](https://www.ismrm.org/members-only/past-annual-scientific-meeting-proceedings-and-syllabi/)
 - [List of MR Sites from ISMRM](http://www.ismrm.org/resources/mr-sites)
