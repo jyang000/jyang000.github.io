@@ -10,15 +10,14 @@ layout: home
 
 <aside style="float:left;padding:10px;width:180px;background:;"><img src='files/jiayao-2024.jpg' alt='my photo' width=170></aside>
 
-Hi, my name is Jiayao Yang. Welcome to my personal website!
+<font style="font-size:10pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hey! I'm Jiayao Yang. Welcome to my personal website!</font>
 
 I am a PhD candidate majoring in Signal & Image Processing and Machine Learning of EECS department in [University of Michgan - Ann Arbor](https://umich.edu/) co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My research interests include magnetic resonance imaging (MRI), signal processing, numerical optimization, and machine learning.
 
-
 **News**
 - **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
-- **March 28-29, 2024**: organized [Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)](https://sites.lsa.umich.edu/mssiss/)
-- **Sepmtember, 2023**: started my PhD program at [University of Michigan](https://umich.edu/)
+- **March 28-29, 2024**: organized 2024 [Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)](https://sites.lsa.umich.edu/mssiss/)
+- **September, 2023**: started my PhD program in ECE at [University of Michigan](https://umich.edu/)
 - **June 03-08, 2023**: presented at [2023 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/23m/) in Toronto
 - **January 08-11, 2023**: presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona
 
