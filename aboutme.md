@@ -7,7 +7,7 @@ layout: post
 I like drawing and photography in my spare time. 
 Important things I learned from drawing are patience and patience, and to appreciate the beauty of the world. 
 
-<img src="files/selfportrait-1.png" alt="drawing">
+<img src="files/selfportrait-1.png" alt="drawing" style="max-width: 40%;">
 
 <center><img src="https://jyang000.github.io/files/selfportrait-0.png" alt="drawing" width=40%> <img src="files/selfportrait-1.png" alt="drawing" width=40%></center>
 
