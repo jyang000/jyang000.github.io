@@ -28,5 +28,3 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 - Jiayao Yang, Jon-Fredrik Nielsen, and Yun Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation”, poster in 2023 ISMRM Workshop on Data Sampling & Image Reconstruction, Sedona, AZ, USA (Jan 2023) (poster number: 77)
 
 [*About this site*](about.md)
-
-<center><img src="files/xiaohei.png" alt="Flowers in Chania" width="100"></center>
