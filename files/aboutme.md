@@ -11,4 +11,5 @@ Important things I learned from drawing are patience and patience, and to apprec
 
 <center><small>Drawing inside the Rackham building at University of Michigan</small><br><img src="drawing2024-inside.png" alt="drawing" style="max-width: 40%;"></center>
 
-<center><img src="files/xiaohei.png" alt="Flowers in Chania" width="100"></center>
+
+<center><img src="xiaohei.png" alt="..." width="100"></center>
