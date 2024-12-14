@@ -14,3 +14,4 @@ Resources
 - [EE369C: Medical Image Reconstruction (standford) ](https://web.stanford.edu/class/ee369c/)
 - [EE469B: RF Pulse Design for MRI (standford)](https://web.stanford.edu/class/ee469b/)
 - Jeff Fessler's website (a professor at UM EECS)
+- [software by Stanford Medicine Body MRI Research Group](https://med.stanford.edu/bmrgroup/software.html)
