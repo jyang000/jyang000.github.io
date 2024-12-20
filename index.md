@@ -14,6 +14,8 @@ layout: home
 
 I am a PhD candidate majoring in Signal & Image Processing and Machine Learning in [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/) co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My research interests include magnetic resonance imaging (MRI), signal processing, numerical optimization, and machine learning.
 
+<center><a href="https://scholar.google.com/citations?user=dDIuj7sAAAAJ">[Google Scholar]</a> <a href="https://github.com/jyang000">[GitHub]</a> <a href="https://www.linkedin.com/in/jiayao-yang-2235b4181">[LinkedIn]</a></center>
+
 **News**
 - **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
 - **April, 2024**: achieved my PhD candidacy
@@ -32,4 +34,5 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 - [More about me ...](files/aboutme.md)
 - [some resources and notes of MRI](files/mri-notes.md)
 
-[*About this site*](about.md)
+<small>last update: 12/20/2024</small><br>
+[*<small>About this site</small>*](about.md)
