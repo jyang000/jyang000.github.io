@@ -17,6 +17,7 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 <center><a href="https://scholar.google.com/citations?user=dDIuj7sAAAAJ">[Google Scholar]</a> <a href="https://github.com/jyang000">[GitHub]</a> <a href="https://www.linkedin.com/in/jiayao-yang-2235b4181">[LinkedIn]</a></center>
 
 **News**
+- **Jan, 2025**: abstract accepted by ISMRM Workshop on Body MRI as a digital poster
 - **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
 - **April, 2024**: achieved my PhD candidacy
 - **March 28-29, 2024**: organized 2024 [Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)](https://sites.lsa.umich.edu/mssiss/)
@@ -34,5 +35,5 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 - [More about me ...](files/aboutme.md)
 - [some resources and notes of MRI](files/mri-notes.md)
 
-*<small>last update: 01/09/2024</small>*<br>
+*<small>last update: 01/24/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
