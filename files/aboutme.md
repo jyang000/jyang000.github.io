@@ -2,7 +2,7 @@
 layout: post
 ---
 
-I love arts. And I like drawing and pating. Important things I learned from drawing are "patience and patience", and to appreciate everthing around you. 
+I love arts. And I like drawing and painting. Important things I learned from drawing are "patience and patience", and to appreciate everthing around you. 
 
 <center><img src="selfportrait-0.png" alt="drawing" style="max-width: 45%;"> <img src="selfportrait-1.png" alt="drawing" style="max-width: 45%;"><br><small>A self-portrait from my drawing class</small></center>
 
