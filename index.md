@@ -18,7 +18,7 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 
 **News**
 - **February 16-20, 2025**: i will attend the [ISMRM Workshop on Diffusion MRI](https://www.ismrm.org/workshops/2025/Diffusion40/) in Japan, looking forward to connecting!
-- **January, 2025**: abstract accepted by [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) as a digital poster
+- **January, 2025**: abstract accepted by ISMRM Workshop on Body MRI and two abstracts accepted by 2025 ISMRM Annual Meeting
 - **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
 - **April, 2024**: achieved my PhD candidacy
 - **March 28-29, 2024**: organized 2024 [Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)](https://sites.lsa.umich.edu/mssiss/)
@@ -36,5 +36,5 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 - [More about me ...](files/aboutme.md)
 - [some resources and notes of MRI](files/mri-notes.md)
 
-*<small>last update: 02/01/2025</small>*<br>
+*<small>last update: 02/13/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
