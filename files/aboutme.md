@@ -2,8 +2,7 @@
 layout: post
 ---
 
-I like drawing in my spare time. 
-Important things I learned from drawing are patience and patience, and to appreciate the beauty of the world. 
+I love arts. And I like drawing and pating. Important things I learned from drawing are "patience and patience", and to appreciate everthing around you. 
 
 <center><img src="selfportrait-0.png" alt="drawing" style="max-width: 45%;"> <img src="selfportrait-1.png" alt="drawing" style="max-width: 45%;"><br><small>A self-portrait from my drawing class</small></center>
 
@@ -12,4 +11,6 @@ Important things I learned from drawing are patience and patience, and to apprec
 <center><img src="drawing2017-e.jpg" alt="drawing" style="max-width: 40%;"><br><small>One of my favorite scientists</small></center>
 
 <div style="height: 1in;"></div>
+
+Below is also one of my favorite scientists who has great passion and curiosity
 <center><img src="xiaohei.png" alt="..." width="100"></center>
