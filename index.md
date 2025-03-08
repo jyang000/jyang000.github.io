@@ -28,6 +28,7 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 - **January 08-11, 2023**: presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona
 
 **Conference and presentations**
+- **Jiayao Yang**, Jon-Fredrik Nielsen, Jeffrey A. Fessler, and Yun Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Prostate Imaging by Combining 3D EPI & Spatially Selective Pulses”, digital poster in 2025 ISMRM Workshop on Body MRI: Unsolved Problems & Unmet Needs, Philadelphia, PA, USA
 - **Jiayao Yang**, Jesus Ernesto Fajardo, Jeffrey A. Fessler, Vikas Gulani, Jon-Fredrik Nielsen, and Yun Jiang, “Calibration-free Multidimensional Universal Refocusing Pulse Design for 3D Reduced Field-of-View Prostate Imaging”, digital poster in 2024 ISMRM Annual Meeting, Singapore. (May 2024) (program number: 4094)
 - Jesus Ernesto Fajardo, **Jiayao Yang**, Tejinder Kaur, Nicole Seiberlich, Vikas Gulani, Yun Jiang, "Accelerated MR Fingerprinting with 1 mm spatial resolution for prostate cancer at 3.0 T", 2024 ISMRM Annual Meeting, Singapore.
 - **Jiayao Yang**, Jon-Fredrik Nielsen, and Yun Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation for 3D refocusing pulse”, in-person oral Power Pitch presentation in 2023 ISMRM Annual Meeting, Toronto, ON, Canada. (June 2023) (program number: 0200)
@@ -37,5 +38,5 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 - [More about me ...](files/aboutme.md)
 - [some resources and notes of MRI](files/mri-notes.md)
 
-*<small>last update: 02/24/2025</small>*<br>
+*<small>last update: 03/08/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
