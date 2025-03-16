@@ -13,4 +13,4 @@ I love arts. And I like drawing and painting. Important things I learned from dr
 <div style="height: 1in;"></div>
 
 Below is also one of my favorite scientists who has great passion and curiosity
-<center><img src="xiaohei.png" alt="..." width="100"></center>
+<center><img src="xiaohei.png" alt="..." width="200"></center>
