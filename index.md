@@ -17,7 +17,8 @@ I am a PhD candidate majoring in Signal & Image Processing and Machine Learning 
 <center><a href="https://scholar.google.com/citations?user=dDIuj7sAAAAJ">[Google Scholar]</a> <a href="https://github.com/jyang000">[GitHub]</a> <a href="https://www.linkedin.com/in/jiayao-yang-2235b4181">[LinkedIn]</a></center>
 
 **News**
-- **March 28-30, 2025**: i will present at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia !!
+- **May 10-15, 2025**: I will present at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii! 
+- **March 28-30, 2025**: I will present at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia!
 - **February 16-20, 2025**: attended the [ISMRM Workshop on Diffusion MRI](https://www.ismrm.org/workshops/2025/Diffusion40/) in Japan
 - **January, 2025**: abstract accepted by ISMRM Workshop on Body MRI and two abstracts accepted by 2025 ISMRM Annual Meeting
 - **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
