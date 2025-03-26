@@ -39,5 +39,5 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - [More about me ...](files/aboutme.md)
 - [some resources and notes of MRI](files/mri-notes.md)
 
-*<small>last update: 03/08/2025</small>*<br>
+*<small>last update: 03/26/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
