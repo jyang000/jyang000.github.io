@@ -18,7 +18,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 
 **News**
 - **May 10-15, 2025**: I will present at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii! 
-- **March 28-30, 2025**: I will present at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia!
+- **March 28-30, 2025**: presented at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia
 - **February 16-20, 2025**: attended the [ISMRM Workshop on Diffusion MRI](https://www.ismrm.org/workshops/2025/Diffusion40/) in Japan
 - **January, 2025**: abstract accepted by ISMRM Workshop on Body MRI and two abstracts accepted by 2025 ISMRM Annual Meeting
 - **May 04-09, 2024**: presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore
@@ -29,15 +29,17 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - **January 08-11, 2023**: presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona
 
 **Conference and presentations**
-- **Jiayao Yang**, Jon-Fredrik Nielsen, Jeffrey A. Fessler, and Yun Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Prostate Imaging by Combining 3D EPI & Spatially Selective Pulses”, digital poster in 2025 ISMRM Workshop on Body MRI: Unsolved Problems & Unmet Needs, Philadelphia, PA, USA
-- **Jiayao Yang**, Jesus Ernesto Fajardo, Jeffrey A. Fessler, Vikas Gulani, Jon-Fredrik Nielsen, and Yun Jiang, “Calibration-free Multidimensional Universal Refocusing Pulse Design for 3D Reduced Field-of-View Prostate Imaging”, digital poster in 2024 ISMRM Annual Meeting, Singapore. (May 2024) (program number: 4094)
-- Jesus Ernesto Fajardo, **Jiayao Yang**, Tejinder Kaur, Nicole Seiberlich, Vikas Gulani, Yun Jiang, "Accelerated MR Fingerprinting with 1 mm spatial resolution for prostate cancer at 3.0 T", 2024 ISMRM Annual Meeting, Singapore.
-- **Jiayao Yang**, Jon-Fredrik Nielsen, and Yun Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation for 3D refocusing pulse”, in-person oral Power Pitch presentation in 2023 ISMRM Annual Meeting, Toronto, ON, Canada. (June 2023) (program number: 0200)
-- **Jiayao Yang**, Jon-Fredrik Nielsen, and Yun Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation”, poster in 2023 ISMRM Workshop on Data Sampling & Image Reconstruction, Sedona, AZ, USA (Jan 2023) (poster number: 77)
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Imaging by Combining 3D EPI and Spatially Selective Pulses”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii. (This is also received as Annual Meeting Program Committee (AMPC) selected transitional poster!)
+- **J Yang**, JF Nielsen, and Y Jiang, “Safer Non-Cartesian Gradients for Your Subject and Scanner”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii.
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Prostate Imaging by Combining 3D EPI & Spatially Selective Pulses”, digital poster in 2025 ISMRM Workshop on Body MRI: Unsolved Problems & Unmet Needs, Philadelphia, PA, USA
+- **J Yang**, JE Fajardo, JA Fessler, V Gulani, JF Nielsen, and Y Jiang, “Calibration-free Multidimensional Universal Refocusing Pulse Design for 3D Reduced Field-of-View Prostate Imaging”, digital poster in 2024 ISMRM Annual Meeting, Singapore. (May 2024) (program number: 4094)
+- JE Fajardo, **J Yang**, T Kaur, N Seiberlich, V Gulani, Y Jiang, “Accelerated MR Fingerprinting with 1 mm spatial resolution for prostate cancer at 3.0 T”, 2024 ISMRM Annual Meeting, Singapore.
+- **J Yang**, JF Nielsen, and Y Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation for 3D refocusing pulse”, in-person oral Power Pitch presentation in 2023 ISMRM Annual Meeting, Toronto, ON, Canada. (June 2023) (program number: 0200)
+- **J Yang**, JF Nielsen, and Y Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation”, poster in 2023 ISMRM Workshop on Data Sampling & Image Reconstruction, Sedona, AZ, USA. (poster number: 77)
 
 **Posts**
-- [More about me ...](files/aboutme.md)
+- [Personal ...](files/aboutme.md)
 - [some resources and notes of MRI](files/mri-notes.md)
 
-*<small>last update: 03/26/2025</small>*<br>
+*<small>last update: 04/01/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
