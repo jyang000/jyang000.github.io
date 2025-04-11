@@ -59,7 +59,7 @@ minima:
   social_links:
    - { platform: github,         user_url: "https://github.com/jyang000" }
    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=dDIuj7sAAAAJ" }
-   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jiayao-yang-2235b4181" }
+   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jiayao-yang" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
