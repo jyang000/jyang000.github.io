@@ -12,9 +12,7 @@ layout: home
 
 <font style="font-size:15pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hi! I'm Jiayao Yang. <br>Welcome to my personal website!</font>
 
-I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My research interests include magnetic resonance imaging (MRI), signal processing, numerical optimization, and machine learning.
-
-<center><a href="https://scholar.google.com/citations?user=dDIuj7sAAAAJ">[Google Scholar]</a> <a href="https://github.com/jyang000">[GitHub]</a> <a href="https://www.linkedin.com/in/jiayao-yang-2235b4181">[LinkedIn]</a></center>
+I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://bme.umich.edu/people/jon-fredrik-nielsen/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
 
 **News**
 - **May 10-15, 2025**: I will present at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii! 
