@@ -36,7 +36,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - **J Yang**, JF Nielsen, and Y Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation”, poster in 2023 ISMRM Workshop on Data Sampling & Image Reconstruction, Sedona, AZ, USA. (poster number: 77)
 
 **Posts**
-- [Personal ...](files/aboutme.md)
+- [More about me ...](files/aboutme.md)
 - [some resources and notes of MRI](files/mri-notes.md)
 
 *<small>last update: 04/01/2025</small>*<br>
