@@ -10,7 +10,5 @@ I enjoy drawing and painting. One of the important things I've learned from draw
 
 I'm also learning watercolor painting, which taught me to be brave and to allow things to develop in their own way. 
 
-<div style="height: 1in;"></div>
-
 Below is also one of my favorite scientists who has great passion and curiosity
 <center><img src="xiaohei.png" alt="..." width="200"></center>
