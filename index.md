@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<aside style="float:left;padding:10px;width:180px;background:;"><img src='files/jiayao-2024.jpg' alt='my photo' width=170></aside>
+<aside style="float:left;padding:10px;width:180px;background:;"><img src='filesJiayao/jiayao-2024.jpg' alt='my photo' width=170></aside>
 
 <font style="font-size:15pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hi! I'm Jiayao Yang. <br>Welcome to my personal website!</font>
 
@@ -36,8 +36,8 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - **J Yang**, JF Nielsen, and Y Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation”, poster in 2023 ISMRM Workshop on Data Sampling & Image Reconstruction, Sedona, AZ, USA. (poster number: 77)
 
 **Posts**
-- [More about me ...](files/aboutme.md)
-- [some resources and notes of MRI](files/mri-notes.md)
+- [More about me ...](filesJiayao/aboutme.md)
+- [some resources and notes of MRI](filesJiayao/mri-notes.md)
 
 *<small>last update: 04/01/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
