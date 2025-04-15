@@ -39,5 +39,5 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - [More about me ...](filesJiayao/aboutme.md)
 - [some resources and notes of MRI](filesJiayao/mri-notes.md)
 
-*<small>last update: 04/01/2025</small>*<br>
+*<small>last update: 04/14/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
