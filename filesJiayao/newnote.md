@@ -1,4 +1,9 @@
-# MRI pulses
+---
+layout: post
+title: "MRI pulses"
+author:
+- Jiayao Y
+---
 This note only focus on the 1D selective pulses. 
 
 ## Basics and characteristics of MRI pulses
