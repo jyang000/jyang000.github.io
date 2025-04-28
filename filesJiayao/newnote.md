@@ -11,7 +11,7 @@ The behavior of the magnetization is described by the Bloch equation
 
 $$\text{Bloch equation}:\quad \frac{d\mathbf{M}}{dt} = \mathbf{M} \times \gamma \mathbf{B}$$
 
-where $\gamma$ is the gyromagnetic ratio, and $\mathbf{B}$ is the magnetic field (the relaxation is ignored here). 
+where \(\gamma\) is the gyromagnetic ratio, and $\mathbf{B}$ is the magnetic field (the relaxation is ignored here). 
 
 
 The followings are some characteristics of RF pulses:
