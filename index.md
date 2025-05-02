@@ -37,7 +37,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 
 **Posts**
 - [some resources and notes of MRI](filesJiayao/mri-notes.md)
-- [mri pulses](filesJiayao/note-mri-pulses.md)
+- [notes on mri pulses](filesJiayao/note-mri-pulses.md)
 - [More about me ...](filesJiayao/aboutme.md)
 
 *<small>last update: 05/02/2025</small>*<br>
