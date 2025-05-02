@@ -27,7 +27,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - **January 08-11, 2023**: I presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona
 
 **Conference and presentations**
-- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Imaging by Combining 3D EPI and Spatially Selective Pulses”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii. (This is also received as Annual Meeting Program Committee (AMPC) selected transitional poster!)
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Imaging by Combining 3D EPI and Spatially Selective Pulses”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii. (Annual Meeting Program Committee (AMPC) selected transitional poster! Summa Cum Laude Award!)
 - **J Yang**, JF Nielsen, and Y Jiang, “Safer Non-Cartesian Gradients for Your Subject and Scanner”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii.
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Prostate Imaging by Combining 3D EPI & Spatially Selective Pulses”, digital poster in 2025 ISMRM Workshop on Body MRI: Unsolved Problems & Unmet Needs, Philadelphia, PA, USA
 - **J Yang**, JE Fajardo, JA Fessler, V Gulani, JF Nielsen, and Y Jiang, “Calibration-free Multidimensional Universal Refocusing Pulse Design for 3D Reduced Field-of-View Prostate Imaging”, digital poster in 2024 ISMRM Annual Meeting, Singapore. (May 2024) (program number: 4094)
@@ -36,8 +36,9 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - **J Yang**, JF Nielsen, and Y Jiang, “Multidimensional RF pulse design in spin-domain using auto-differentiation”, poster in 2023 ISMRM Workshop on Data Sampling & Image Reconstruction, Sedona, AZ, USA. (poster number: 77)
 
 **Posts**
-- [More about me ...](filesJiayao/aboutme.md)
 - [some resources and notes of MRI](filesJiayao/mri-notes.md)
+- [mri pulses](filesJiayao/note-mri-pulses.md)
+- [More about me ...](filesJiayao/aboutme.md)
 
-*<small>last update: 04/21/2025</small>*<br>
+*<small>last update: 05/02/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
