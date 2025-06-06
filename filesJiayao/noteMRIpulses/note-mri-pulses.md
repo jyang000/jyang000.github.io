@@ -5,7 +5,6 @@ author:
 - Jiayao Y
 ---
 
-# MRI pulses
 ## Basics and characteristics of MRI pulses
 The behavior of the magnetization is described by the Bloch equation (the relaxation is ignored here)
 
