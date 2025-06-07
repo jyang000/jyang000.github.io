@@ -27,7 +27,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 <!-- - **January 08-11, 2023**: I presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona -->
 
 **Publications**
-- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med | [website](todo)
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med ([website](todo))
 
 **Conference and presentations**
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Imaging by Combining 3D EPI and Spatially Selective Pulses”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii. (Annual Meeting Program Committee (AMPC) selected transitional poster! Summa Cum Laude Award!)
@@ -43,5 +43,5 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - [notes on mri pulses](filesJiayao/noteMRIpulses/note-mri-pulses.md)
 - [More about me ...](filesJiayao/aboutme.md)
 
-*<small>last update: 05/02/2025</small>*<br>
+*<small>last update: 06/07/2025</small>*<br>
 [*<small>About this site</small>*](about.md)
