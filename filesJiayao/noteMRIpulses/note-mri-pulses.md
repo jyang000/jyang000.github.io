@@ -2,7 +2,7 @@
 layout: post
 title: "mri pulses"
 author:
-- Jiayao Y
+- Jiayao Yang
 ---
 
 ## Basics and characteristics of MRI pulses
