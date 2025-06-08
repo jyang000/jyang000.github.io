@@ -10,14 +10,14 @@ The behavior of the magnetization is described by the Bloch equation (the relaxa
 
 $$\text{Bloch equation}:\quad \frac{d\mathbf{M}}{dt} = \mathbf{M} \times \gamma \mathbf{B}$$
 
-$$\mathbf{M}:\text{magnetization}, \gamma: \text{gyromagnetic ratio}, \mathbf{B}: \text{magnetic field}$$
+where $$\mathbf{M}$$ is magnetization, $$\gamma$$ is gyromagnetic ratio, and $$\mathbf{B}$$ is magnetic field.
 
 ## Examples
 
 ### Rectangular pulse
 The flip angle from a rectangular pulse can be computed using 
-$$\theta = \gamma B_1 T$$
-The square pulse is nonselective, but in frequency, it does have a bandwidth for different pulse duration,
+$$\theta = \gamma B_1 T.$$
+The square pulse is nonselective, but in frequency, it does have a different bandwidth for a different pulse duration,
 ![](pulse-rect-1.png)
 ![](pulse-rect-2.png)
 
@@ -42,3 +42,4 @@ Shinnar-Le Roux pulse[^slrpulse].
 
 
 ---
+
