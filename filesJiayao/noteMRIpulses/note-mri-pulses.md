@@ -22,7 +22,8 @@ The square pulse is nonselective, but in frequency, it does have a bandwidth for
 ![](pulse-rect-2.png)
 
 ### Gaussian pulse
-![](pulse-gaussian.png)
+![](pulse-gaussian-1.png)
+![](pulse-gaussian-2.png)
 
 ### SINC 
 It is often mupltiplied by a window function. It can be used to select a slice with slice selective gradient. 
