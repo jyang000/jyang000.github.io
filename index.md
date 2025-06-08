@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<aside style="float:left;padding:10px;width:180px;background:;"><img src='filesJiayao/jiayao-2024.jpg' alt='my photo' width=170></aside>
+<aside style="float:left;padding:10px;width:180px;background:;"><img src='filesJiayao/jiayao-2024.jpg' alt='my photo' width=170 style="border-radius:50%;"></aside>
 
 <font style="font-size:15pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hi! I'm Jiayao Yang. <br>Welcome to my personal website!</font>
 
