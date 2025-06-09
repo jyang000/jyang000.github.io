@@ -5,6 +5,7 @@ author:
 - Jiayao Yang
 ---
 
+
 ## Basics and characteristics of MRI pulses
 The behavior of the magnetization is described by the Bloch equation (the relaxation is ignored here)
 
@@ -35,11 +36,11 @@ Things to control a sinc pulse
 
 ### SLR
 Shinnar-Le Roux pulse[^slrpulse]. 
+![](pulse-slr-1.png)
 
 [^slrpulse]: Pauly, John, et al. "Parameter relations for the Shinnar-Le Roux selective excitation pulse design algorithm (NMR imaging)." IEEE transactions on medical imaging 10.1 (1991): 53-65.
 
-### Optimal control design
+### Adibatic pulse
 
 
 ---
-
