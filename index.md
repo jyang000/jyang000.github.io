@@ -15,8 +15,8 @@ layout: home
 I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://websites.umich.edu/~jfnielse/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
 
 **News**
-- **July 10-11, 2025**, I will give an oral presentation in conference, [Magnetic Resonance in Madison](https://magresmadison.radiology.wisc.edu/abstract-submission/)! 
-- **June 16, 2025**: our paper on multidimensional RF pulse design using spin-domain optimization is published online! Check the paper [here](https://doi.org/10.1002/mrm.30607)!
+- **<font color="tomato">July 10-11, 2025</font>**, I will give an oral presentation in conference, [Magnetic Resonance in Madison](https://magresmadison.radiology.wisc.edu/abstract-submission/)! 
+- <font color="tomato">**June 16, 2025**</font>: our paper on multidimensional RF pulse design using spin-domain optimization is published online! Check the paper [here](https://doi.org/10.1002/mrm.30607)!
 - **May 10-15, 2025**: I presented at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii 
 - **March 28-30, 2025**: I presented at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia
 - **February 16-20, 2025**: I attended the [ISMRM Workshop on Diffusion MRI](https://www.ismrm.org/workshops/2025/Diffusion40/) in Japan
