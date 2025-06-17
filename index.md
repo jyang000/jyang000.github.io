@@ -15,10 +15,12 @@ layout: home
 I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://websites.umich.edu/~jfnielse/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
 
 **News**
+- **July 10-11, 2025**, I will give an oral presentation in conference, [Magnetic Resonance in Madison](https://magresmadison.radiology.wisc.edu/abstract-submission/)! 
+- **June 16, 2025**: our paper on multidimensional RF pulse design using spin-domain optimization is published online! Check the paper [here](https://doi.org/10.1002/mrm.30607)!
 - **May 10-15, 2025**: I presented at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii 
 - **March 28-30, 2025**: I presented at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia
 - **February 16-20, 2025**: I attended the [ISMRM Workshop on Diffusion MRI](https://www.ismrm.org/workshops/2025/Diffusion40/) in Japan
-- **January, 2025**: one abstract accepted by ISMRM Workshop on Body MRI and two abstracts accepted by 2025 ISMRM Annual Meeting
+<!-- - **January, 2025**: one abstract accepted by ISMRM Workshop on Body MRI and two abstracts accepted by 2025 ISMRM Annual Meeting -->
 <!-- - **May 04-09, 2024**: I presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore -->
 <!-- - **April, 2024**: I achieved my PhD candidacy -->
 <!-- - **March 28-29, 2024**: we organized 2024 [Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS)](https://sites.lsa.umich.edu/mssiss/) -->
@@ -27,7 +29,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 <!-- - **January 08-11, 2023**: I presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona -->
 
 **Publications**
-- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med ([website](todo))
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med, 2025. ([paper](https://doi.org/10.1002/mrm.30607) / webiste / code)
 
 **Conference and presentations**
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Imaging by Combining 3D EPI and Spatially Selective Pulses”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii. (Annual Meeting Program Committee (AMPC) selected transitional poster! Summa Cum Laude Award!)
@@ -43,5 +45,5 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - [notes on mri pulses](filesJiayao/noteMRIpulses/note-mri-pulses.md)
 - [More about me ...](filesJiayao/aboutme.md)
 
-*<small>last update: 06/07/2025</small>*<br>
+*<small>last update: 06/16/2025</small>*<br>
 [*<small>About this site which is based on ...</small>*](about.md)
