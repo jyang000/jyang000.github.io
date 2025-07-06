@@ -29,7 +29,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 <!-- - **January 08-11, 2023**: I presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona -->
 
 **Publications**
-- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med, 2025. ([paper](https://doi.org/10.1002/mrm.30607) / [code](https://github.com/MIITT-MRI-Jianglab/Multid_RF_SpinDomain)) <br> <img src="filesJiayao/paperMultidRFspindomain25/multid_rf_SpinDomainOpt_refocusing.gif" width=50%>
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med, 2025. ([paper](https://doi.org/10.1002/mrm.30607) / [code](https://github.com/MIITT-MRI-Jianglab/Multid_RF_SpinDomain)) <br> ![]("filesJiayao/paperMultidRFspindomain25/multid_rf_SpinDomainOpt_refocusing.gif")
 
 **Conference and presentations**
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Imaging by Combining 3D EPI and Spatially Selective Pulses”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii. (Annual Meeting Program Committee (AMPC) selected transitional poster! Summa Cum Laude Award!)
