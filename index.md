@@ -15,7 +15,7 @@ layout: home
 I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://websites.umich.edu/~jfnielse/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
 
 **News**
-- **<font color="tomato">July 10-11, 2025</font>**, I will give an oral presentation in conference, [Magnetic Resonance in Madison](https://magresmadison.radiology.wisc.edu/abstract-submission/)! 
+- **July 10-11, 2025**, I gave an oral presentation in [Magnetic Resonance in Madison](https://magresmadison.radiology.wisc.edu/abstract-submission/) conference 
 - **<font color="tomato">June 16, 2025</font>**: our paper on multidimensional RF pulse design using spin-domain optimization is published online! Check the paper [here](https://doi.org/10.1002/mrm.30607)!
 - **May 10-15, 2025**: I presented at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii 
 - **March 28-30, 2025**: I presented at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia
@@ -32,6 +32,7 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med, 2025. ([paper](https://doi.org/10.1002/mrm.30607) / [code](https://github.com/MIITT-MRI-Jianglab/Multid_RF_SpinDomain)) <br> ![](filesJiayao/paperMultidRFspindomain25/multid_rf_SpinDomainOpt_refocusing.gif)
 
 **Conference and presentations**
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "3D High-Resolution Reduced Field-of-View Imaging by Combining EPI and Spatially Selective Pulses", oral presentation in Magnetic Resonance in Madison, Madison, WI. (July 2025) 
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Imaging by Combining 3D EPI and Spatially Selective Pulses”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii. (Annual Meeting Program Committee (AMPC) selected transitional poster! Summa Cum Laude Award!)
 - **J Yang**, JF Nielsen, and Y Jiang, “Safer Non-Cartesian Gradients for Your Subject and Scanner”, digital poster in 2025 ISMRM Annual Meeting, Honolulu, Hawaii.
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, “3D High-Resolution Reduced Field-of-View T2-Weighted Prostate Imaging by Combining 3D EPI & Spatially Selective Pulses”, digital poster in 2025 ISMRM Workshop on Body MRI: Unsolved Problems & Unmet Needs, Philadelphia, PA, USA
