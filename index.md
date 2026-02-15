@@ -12,10 +12,10 @@ layout: home
 
 <font style="font-size:15pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hi! I'm Jiayao Yang. <br>Welcome to my personal website!</font>
 
-I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://websites.umich.edu/~jfnielse/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
+I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm so fortunate to be co-advised by [Jon-Fredrik Nielsen](https://websites.umich.edu/~jfnielse/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
 
 **News**
-- **Jan 11-14, 2026**, I will present in [ISMRM Workshop on Data Sampling and Image Reconstruction]() in Sedona
+- **Jan 11-14, 2026**, I presented in [ISMRM Workshop on Data Sampling and Image Reconstruction]() in Sedona
 - **July 10-11, 2025**, I gave an oral presentation in [Magnetic Resonance in Madison](https://magresmadison.radiology.wisc.edu/abstract-submission/) conference 
 - **<font color="tomato">June 16, 2025</font>**: our paper on multidimensional RF pulse design using spin-domain optimization is published online! Check the paper [here](https://doi.org/10.1002/mrm.30607)!
 - **May 10-15, 2025**: I presented at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii 
@@ -47,5 +47,5 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 - [notes on mri pulses](filesJiayao/noteMRIpulses/note-mri-pulses.md)
 - [More about me ...](filesJiayao/aboutme.md)
 
-*<small>last update: 06/16/2025</small>*<br>
+*<small>last update: 02/15/2026</small>*<br>
 [*<small>About this site which is based on ...</small>*](about.md)
