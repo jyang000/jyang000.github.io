@@ -30,24 +30,28 @@ $$\theta = \gamma B_1 T.$$
 The square pulse is nonselective ideally, 
 but it does have a bandwidth in frequency because it is not infinitely short in practice. 
 
-<center><img src="rect-pulse-1.png" alt="rectangular pulse" style="max-width: 55%;"></center>
-<center><img src="rect-pulse-2.png" alt="rectangular pulse" style="max-width: 55%;"></center>
+<center><img src="rect-pulse-1.png" alt="rectangular pulse" style="max-width: 80%;"></center>
+<center><img src="rect-pulse-2.png" alt="rectangular pulse" style="max-width: 80%;"></center>
 
 Additionally not everything is "on resonance", but the voxel with better matched resonance frequency as the RF pulse gets more influence from the applied pulse. 
-So two basic characteristics of the RF pulse are <font color="purple">duration</font> and <font color="purple">bandwidth</font>. 
+So two basic characteristics of the RF pulse are **duration** and **bandwidth**. 
 
 **Gaussian pulse** <br>
 Gaussian pulse has a Gaussian shape RF envolope and also a Gaussian shape frequency band. 
 For example, Gaussian pulse can be used for fat signal saturation by shifting its center frequency. 
 
-<center><img src="gaussian-pulse-1.png" alt="gaussian pulse" style="max-width: 55%;"></center>
-<center><img src="gaussian-pulse-2.png" alt="gaussian pulse" style="max-width: 55%;"></center>
+<center><img src="gaussian-pulse-1.png" alt="gaussian pulse" style="max-width: 80%;"></center>
+<center><img src="gaussian-pulse-2.png" alt="gaussian pulse" style="max-width: 80%;"></center>
 
 **SINC pulse** <br>
 The off-resonance is not always something we want to avoid; it can be used to create selective RF excitation. 
 SINC pulse combined with a slice selective gradient can be used to excite the signal of a certain slice. 
+It is often mupltiplied by a window function (apodization). It can be used to select a slice with slice selective gradient. 
+Things to control a sinc pulse: 
+1) time-bandwidth product, pulse duration (then the bandwidth can be computed) 
+2) slice thickness (then the slice gradient can be determined).
 
-<center><img src="sinc-pulse-2.png" alt="sinc pulse" style="max-width: 55%;"></center>
+<center><img src="sinc-pulse-1.png" alt="sinc pulse" style="max-width: 80%;"></center>
 
 One way to analyze the excitation profile of the pulse is **small-tip-angle analysis**[^smalltipangle]. 
 Assume the flip angle small, which also means $$dM_z/dt \approx 0,$$ 
@@ -63,48 +67,26 @@ where $$\Delta\omega$$ is the off-resonance. This gives the result
 
 $$M_{xy}(t) = i M_0 e^{-i\omega t} \int_0^t e^{i\omega s} \gamma B_1(t) ds.$$
 
-which indicates the excitated transverse magnetization is related to the frequency spectrum of the RF profile $$B_1(t)$$. 
+which indicates the excitated transverse magnetization is related to the frequency spectrum of the RF profile $$B_1(t).$$
 The small-tip-angle approximation also introduces the concept of excitation k-space. 
 
 While, it always needs an rephasing gradient to refocus the magnetization within the excited slice. 
 
-
-
-reference 
-1. Nishimura, D. (1996). Principles of magnetic resonance imaging: Dwight d. Nishimura.
-
-
-
-
-<!--
-### Rectangular pulse
-The flip angle from a rectangular pulse can be computed using 
-$$\theta = \gamma B_1 T.$$
-The square pulse is nonselective, but in frequency, it does have a different bandwidth for a different pulse duration,
-![](pulse-rect-1.png)
-![](pulse-rect-2.png)
-
-### Gaussian pulse
-![](pulse-gaussian-1.png)
-![](pulse-gaussian-2.png)
-
-### SINC 
-It is often mupltiplied by a window function. It can be used to select a slice with slice selective gradient. 
-Things to control a sinc pulse
-- time-bandwidth product, pulse duration (then the bandwidth can be computed)
-- slice thickness (then the slice gradient can be determined)
-
-![](pulse-sinc-1.png)
-
-### SLR
-Shinnar-Le Roux pulse[^slrpulse]. 
-![](pulse-slr-1.png)
+**Shinnar-Le Roux pulse** <br>
+SLR pulse[^slrpulse] produce more desired excitation profile compared to the SINC pulse when the large-flip angle is required. 
 
 [^slrpulse]: Pauly, John, et al. "Parameter relations for the Shinnar-Le Roux selective excitation pulse design algorithm (NMR imaging)." IEEE transactions on medical imaging 10.1 (1991): 53-65.
 
-### Adibatic pulse
+<center><img src="slr-pulse-1.png" alt="SLR pulse" style="max-width: 80%;"></center>
 
+**Adibatic pulse** <br>
+...
+
+Some reference: [^principlesOfMRI] 
 
 ---
 
--->
+reference 
+
+
+[^principlesOfMRI]: Nishimura, D. (1996). Principles of magnetic resonance imaging: Dwight d. Nishimura.
