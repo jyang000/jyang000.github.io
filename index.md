@@ -28,7 +28,3 @@ I'm a PhD candidate in the [Electrical Engineering and Computer Science](https:/
 <!-- - **September, 2023**: I started my PhD program in ECE at [University of Michigan](https://umich.edu/) -->
 <!-- - **June 03-08, 2023**: I presented at [2023 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/23m/) in Toronto -->
 <!-- - **January 08-11, 2023**: I presented at ISMRM workshop on [Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) in Sedona -->
-
-
-*<small>last update: 02/15/2026</small>*<br>
-[*<small>About this site which is based on ...</small>*](about.md)
