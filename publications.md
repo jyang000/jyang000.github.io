@@ -1,5 +1,5 @@
 ---
 layout: page
-title: publications
+title: Publications and Conference
 permalink: /publications/
 ---
