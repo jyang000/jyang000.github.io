@@ -8,9 +8,7 @@
 layout: home
 ---
 
-<div style="height: 30px;"></div>
-<aside style="float:right;padding:10px;width:180px;background:;"><img src='filesJiayao/jiayao-2024.jpg' alt='my photo' width=170 style="border-radius:50%;"></aside>
-
+<aside style="float:right;padding:10px;width:180px;background:;"><div><img src='filesJiayao/jiayao-2024.jpg' alt='my photo' width=170 style="border-radius:50%;"></div></aside>
 <div style="height: 30px;"></div>
 <font style="font-size:15pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hi! I'm Jiayao Yang </font>
 <div style="height: 30px;"></div>
