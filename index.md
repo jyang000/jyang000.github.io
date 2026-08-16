@@ -8,15 +8,14 @@
 layout: home
 ---
 
-<div style="height: 60px;"></div>
+<div style="height: 30px;"></div>
 <aside style="float:right;padding:10px;width:180px;background:;"><img src='filesJiayao/jiayao-2024.jpg' alt='my photo' width=170 style="border-radius:50%;"></aside>
 
-<div style="height: 40px;"></div>
-<font style="font-size:15pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hi! I'm Jiayao Yang. </font>
-<div style="height: 40px;"></div>
+<div style="height: 30px;"></div>
+<font style="font-size:15pt;font-family:monospace;text-shadow: 3px 3px 2px rgba(0, 0, 0, .3);">Hi! I'm Jiayao Yang </font>
+<div style="height: 30px;"></div>
 
 I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://websites.umich.edu/~jfnielse/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). 
-
 My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
 
 **News**
