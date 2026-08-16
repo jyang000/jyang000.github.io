@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 **Publications**
-- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med, 2025. ([paper](https://doi.org/10.1002/mrm.30607) / [code](https://github.com/MIITT-MRI-Jianglab/Multid_RF_SpinDomain)) <br> ![](filesJiayao/paperMultidRFspindomain25/multid_rf_SpinDomainOpt_refocusing.gif)
+- **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "Multi‐Dimensional RF Pulse Design Using Auto‐Differentiable Spin‐Domain Optimization and its Application to Reduced Field‐of‐View Imaging", Magn Reson Med, 2025. ([paper](https://doi.org/10.1002/mrm.30607) / [code](https://github.com/MIITT-MRI-Jianglab/Multid_RF_SpinDomain)) 
+
 
 **Conference and presentations**
 - **J Yang**, JF Nielsen, JA Fessler, and Y Jiang, "3D High-Resolution Reduced Field-of-View Imaging by Combining EPI and Spatially Selective Pulses", oral presentation in Magnetic Resonance in Madison, Madison, WI. (July 2025) 
