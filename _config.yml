@@ -33,7 +33,7 @@ plugins:
 header_pages:
   - publications.md
   # - posts.md
-  - about.md
+  # - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
