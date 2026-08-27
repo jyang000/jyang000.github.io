@@ -14,7 +14,7 @@ layout: home
 <div style="height: 30px;"></div>
 
 I'm a PhD candidate in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michgan - Ann Arbor](https://umich.edu/), majoring in Signal & Image Processing and Machine Learning. I'm fortunate to be co-advised by [Jon-Fredrik Nielsen](https://websites.umich.edu/~jfnielse/) and [Yun Jiang](https://medicine.umich.edu/dept/radiology/yun-jiang-phd). 
-My current research explores new algorithms for multidimensional pulses design in magnetic resonance imaging (MRI) using optimization methods and their applications to reduced field-of-view imaging. I'm also interested in developing new algorithms for MRI combining signal processing knowledge and machine learning. 
+My research projects focus on magnetic resonance imaging (MRI), including diffusion MRI, reduced field-of-view imaging, and multidimensional pulse and sequence design in MRI. My research interests also include signal and image processing, optimization methods, and machine learning. 
 
  <div class="social-links">
    {%- include social.html -%}
