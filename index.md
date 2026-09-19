@@ -26,8 +26,8 @@ My research projects focus on magnetic resonance imaging (MRI), including diffus
 - **July 10-11, 2025**, I gave an oral presentation in [Magnetic Resonance in Madison](https://magresmadison.radiology.wisc.edu/abstract-submission/) conference 
 - **<font color="tomato">June 16, 2025</font>**: our paper on multidimensional RF pulse design using spin-domain optimization is published online! Check the paper [here](https://doi.org/10.1002/mrm.30607)!
 - **May 10-15, 2025**: I presented at [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/) in Hawaii 
-- **March 28-30, 2025**: I presented at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia
-- **February 16-20, 2025**: I attended the [ISMRM Workshop on Diffusion MRI](https://www.ismrm.org/workshops/2025/Diffusion40/) in Japan
+<!-- - **March 28-30, 2025**: I presented at [ISMRM Workshop on Body MRI](https://www.ismrm.org/workshops/2025/Body/) in Philadelphia -->
+<!-- - **February 16-20, 2025**: I attended the [ISMRM Workshop on Diffusion MRI](https://www.ismrm.org/workshops/2025/Diffusion40/) in Japan -->
 <!-- - **January, 2025**: one abstract accepted by ISMRM Workshop on Body MRI and two abstracts accepted by 2025 ISMRM Annual Meeting -->
 <!-- - **May 04-09, 2024**: I presented at [2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) in Singapore -->
 <!-- - **April, 2024**: I achieved my PhD candidacy -->
